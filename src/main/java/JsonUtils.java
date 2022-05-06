@@ -42,6 +42,6 @@ public class JsonUtils {
         return jsonResult;
     }
 
-    String A = "Denemedir sonra silicem";
+
 
 }
